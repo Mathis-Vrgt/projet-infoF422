@@ -1,1 +1,12 @@
 Notes de la discussion d'organisation
+
+Série temporelle, choix des colonnes 
+
+Etape 1 :
+
+Créer Narx1, Narx2 : obligatoire et permet de tester nos modèles sur des données connues
+
+
+
+
+
