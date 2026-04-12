@@ -23,3 +23,7 @@ Regression linéaire (baseline) -- > choix des variables et de comment on regard
 Etape 2 :
 
 Choix des modèles xgboost, randomForest etc....
+
+
+Question sur les données, comment on teste sur l'échantillon de test si on n'a pas les Y
+pour le test
