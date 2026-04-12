@@ -1,12 +1,25 @@
 Notes de la discussion d'organisation
 
-Série temporelle, choix des colonnes 
+Série temporelle, choix des colonnes
 
-Etape 1 :
+
+Etape préliminaire :
 
 Créer Narx1, Narx2 : obligatoire et permet de tester nos modèles sur des données connues
 
+Créer les focntions de métriques (je ne sais pas s'il attend qu'on les code nous même
+car elles existes dans des bibliothèques python)
+
+Réfléchir à comment on souhaite découper notre dataset pour les tests et pour la validation
+croisée pour les méthodes qui ont des paramètres à ajuster
 
 
 
+Etape 1 :
 
+Regression linéaire (baseline) -- > choix des variables et de comment on regarde le passé
+-- > méthode de sélection de features
+
+Etape 2 :
+
+Choix des modèles xgboost, randomForest etc....
