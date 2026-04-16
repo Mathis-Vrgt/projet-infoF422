@@ -27,3 +27,9 @@ Choix des modèles xgboost, randomForest etc....
 
 Question sur les données, comment on teste sur l'échantillon de test si on n'a pas les Y
 pour le test
+
+pour mardi :
+
+=verifier les fonction genere données( Eurielle mettre bruit à zero)
+=chacun doit relire le cours pour la selections des données et on en discute mardi
+=
