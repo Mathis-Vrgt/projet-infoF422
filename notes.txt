@@ -32,6 +32,6 @@ pour le test
 
 pour mardi :
 
-=verifier les fonction genere données( Eurielle mettre bruit à zero)
+=verifier les fonction genere données(  mettre bruit à zero)
 =chacun doit relire le cours pour la selections des données et on en discute mardi
 =reflechir sur comment limiter des erreur pour la validation du modele (validation croisés)
