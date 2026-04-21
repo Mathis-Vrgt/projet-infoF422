@@ -35,3 +35,33 @@ pour mardi :
 =verifier les fonction genere données(  mettre bruit à zero)
 =chacun doit relire le cours pour la selections des données et on en discute mardi
 =reflechir sur comment limiter des erreur pour la validation du modele (validation croisés)
+
+
+
+Reunion 21/04/26
+
+- Envoyer un mail au prof pour demander si on peut utiliser les fonctions des librairies ou on code tout nous meme
+-choix de Variables:
+    -par rapport au methodes c'est bien de faire les Wrappers (voir tp parti 7.3.2)
+    -(Dorine en comparant la methode avec ce qu'on obtient avec la matrice de correlation il y'a pas trop grande différence.......Teste different valeurs de N et on choisit 
+    - matrice de correlation (colonne doit etre indépendante)
+    - on se sait pas si les données sont lineaires donc à voirs
+-revoir la verification de des fonctions genere (Eurielle)
+- regarder le  modele de validation lineaire 
+-Validation croisées : fonction Time Series Split (fait une sorte de fenetre qui balaie les donnée sans les melanger )
+- faut pouvoir predire les 1000 valeurs à la fois (rechercher comment limiter le probleme de la multiplication d'erreur au cas ou in fait une erreurs au début)
+approche point par point (Mathis) ou approche bloc par bloc: faire des blocs de la taille ou alors entrainez le modele avec les label 
+- bien commenter , expliquer et docummenter le code ( Eurielle , Dorine ,Mathis)
+- Dorine : repasser la partie des parametres pour bien documenter
+
+
+Prochaine Reunion Jeudi 23/04.2025 Heure 14h 
+
+
+
+
+
+
+
+
+
