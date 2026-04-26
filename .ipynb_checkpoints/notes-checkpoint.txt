@@ -1,0 +1,37 @@
+lien du repository : https://github.com/ULB-INFO-F-422/project-2025-2026-team-38-1 
+
+Notes de la discussion d'organisation
+
+Série temporelle, choix des colonnes
+
+
+Etape préliminaire :
+
+Créer Narx1, Narx2 : obligatoire et permet de tester nos modèles sur des données connues
+
+Créer les focntions de métriques (je ne sais pas s'il attend qu'on les code nous même
+car elles existes dans des bibliothèques python)
+
+Réfléchir à comment on souhaite découper notre dataset pour les tests et pour la validation
+croisée pour les méthodes qui ont des paramètres à ajuster
+
+
+
+Etape 1 :
+
+Regression linéaire (baseline) -- > choix des variables et de comment on regarde le passé
+-- > méthode de sélection de features
+
+Etape 2 :
+
+Choix des modèles xgboost, randomForest etc....
+
+
+Question sur les données, comment on teste sur l'échantillon de test si on n'a pas les Y
+pour le test
+
+pour mardi :
+
+=verifier les fonction genere données(  mettre bruit à zero)
+=chacun doit relire le cours pour la selections des données et on en discute mardi
+=reflechir sur comment limiter des erreur pour la validation du modele (validation croisés)
